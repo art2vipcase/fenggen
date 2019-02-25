@@ -408,7 +408,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#333333', end
 
 /** 作品明細 **/
 .works-detail {width: 100%;margin: 0;padding: 0px;display: flex;flex-wrap: wrap;}
-.youtube{width: 100%;font-size: 16px; color: #333;padding:0 10px 10px 10px;display: flex;align-items:center;}
+.youtube{width: 100%;font-size: 16px; color: #333;padding:0 10px 10px 10px;display: flex;align-items:center;font-weight: bold;}
 .youtube a{color: #333;}
 .youtube a:hover{color: #ff0000;}
 .youtube img{width:80px;padding: 0 ;margin: 0 0 4px 10px;}
